@@ -12,3 +12,13 @@ Attach this script to a GameObject in your scene.
 Assign the Text object to fpsText in the Inspector.
 
 Move the Text to the top-right of the screen
+
+UNREAL
+
+Create a C++ HUD Class (AFPSHUD).
+
+Set it as the HUD Class in the Game Mode.
+
+Compile & Play.
+
+
